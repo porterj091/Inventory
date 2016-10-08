@@ -1,0 +1,5 @@
+/home/joseph/Documents/AMZInventory/AMZInventory/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/joseph/Documents/AMZInventory/AMZInventory/bin/Debug/AMZInventory.exe.mdb
+/home/joseph/Documents/AMZInventory/AMZInventory/bin/Debug/AMZInventory.exe
+/home/joseph/Documents/AMZInventory/AMZInventory/obj/x86/Debug/AMZInventory.exe
+/home/joseph/Documents/AMZInventory/AMZInventory/obj/x86/Debug/AMZInventory.exe.mdb
